@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rts.Core", "Rts.Core\Rts.Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rts.Core.Model", "Rts.Core.Model\Rts.Core.Model.csproj", "{139C5DD4-6065-4CC0-B994-BC28CD872105}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rts.Core.Data", "Rts.Core.Data\Rts.Core.Data.csproj", "{EE975BCF-E9B7-4BDE-B283-FBCB3938D2A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{139C5DD4-6065-4CC0-B994-BC28CD872105}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{139C5DD4-6065-4CC0-B994-BC28CD872105}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{139C5DD4-6065-4CC0-B994-BC28CD872105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE975BCF-E9B7-4BDE-B283-FBCB3938D2A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE975BCF-E9B7-4BDE-B283-FBCB3938D2A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE975BCF-E9B7-4BDE-B283-FBCB3938D2A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE975BCF-E9B7-4BDE-B283-FBCB3938D2A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

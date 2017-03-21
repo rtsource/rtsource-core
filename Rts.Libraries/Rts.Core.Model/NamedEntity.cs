@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Rts.Core.Model
+﻿namespace Rts.Core.Model
 {
     public abstract class NamedEntity : Entity
     {
